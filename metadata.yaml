@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37426#Whirlpools--A-Novel-of-Modern-Poland
 gutenberg_issued: '2011-09-15'
 gutenberg_type: Text
 identifiers:
